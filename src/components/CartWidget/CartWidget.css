@@ -1,0 +1,13 @@
+.carrito{
+    display: flex;
+    align-items: center;
+}
+.CartWidget {
+    position: relative;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+  }
+ 
+  
+  
